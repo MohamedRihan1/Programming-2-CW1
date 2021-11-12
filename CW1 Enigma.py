@@ -232,7 +232,6 @@ print("Decrypted text: ",machine.encoding(encrypted_text))
 
 
 
-
 #Tests on the machine to explore possibilities and finding error
 
 
